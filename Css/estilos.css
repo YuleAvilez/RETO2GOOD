@@ -1,0 +1,198 @@
+*{
+    align-items: center;
+    justify-content:center;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: #b4a7d6 ;
+}
+h1{
+  font-size: 25px;
+  color :#370643;
+}
+h2{
+  text-align: center;
+  font-family: 'calibri';
+  background: #c27ba0;
+  padding: 10px;
+  background: #b4a7d6;
+}
+h3{
+  text-align: center;
+  font-family: 'calibri';
+  box-shadow: 7px 10px 60px #3d0031 ;
+  background: #c27ba0;
+  padding: 10px;
+  margin: 70px;
+  top: 50px;
+  background: #c27ba0;;
+}
+.form-registro {
+    width: 400px;
+    text-align: center;
+    background: #c27ba0;
+    padding: 50px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    font-family: 'calibri';
+    color: rgb(0, 0, 0);
+    box-shadow: 7px 13px 37px #2d1e2a ;
+  }
+  .contenedor2 {
+    width: 400px;
+    text-align: center;
+    background: #c27ba0;
+    padding: 50px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    font-family: 'calibri';
+    color: rgb(0, 0, 0);
+    box-shadow: 7px 13px 37px #2d1e2a ;
+  }
+  .btn2{
+    width: 25%;
+    background: #b4a7d6;
+    border: none;
+    border-radius: 10px;
+    padding: 12px;
+    color: rgb(0, 0, 0);
+    margin: 10px 0;
+    font-size: 15px;
+    box-shadow: 3px 5px 15px #a852d6 ;
+    cursor: pointer;
+  }
+
+
+  .informacion {
+    width: 100%;
+    background: #b4a7d6;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 18px;
+    border: 2px solid #8661dc;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+  }
+
+  .btnIngresar{
+    width: 50%;
+    background: #b4a7d6;
+    border: none;
+    border-radius: 30px;
+    padding: 12px;
+    color: rgb(0, 0, 0);
+    margin: 16px 0;
+    font-size: 16px;
+    box-shadow: 3px 5px 15px #a852d6 ;
+    cursor: pointer;
+   
+  }
+  .error{
+    width: 55%;
+    background: #b71bb7;
+    align-items: center;
+    border: none;
+    border-radius: 5px;
+    padding: 2px;
+    color: rgb(0, 0, 0);
+    margin: 16px 0;
+    font-size: 15px;
+    box-shadow: 3px 5px 15px #a852d6 ;
+
+  }
+
+  #suma{
+    width: 50%;
+    background: #b4a7d6;
+    padding: 1px;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    border: 2px solid #8661dc;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+  }
+
+  .botononesBienvenida{
+    width: 400px;
+    text-align: center;
+    background: #c27ba0;
+    padding: 50px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    font-family: 'calibri';
+    color: rgb(0, 0, 0);
+    box-shadow: 7px 13px 37px #2d1e2a ;
+  }
+
+  .btnAdivinanza{
+    width: 50%;
+    background: #b4a7d6;
+    border: none;
+    border-radius: 15px;
+    padding: 12px;
+    color: rgb(0, 0, 0);
+    margin: 10px 0;
+    font-size: 16px;
+    box-shadow: 3px 5px 15px #a852d6 ;
+    cursor: pointer;
+  }
+
+.btnCerrarSesion{
+  width: 50%;
+  background: #b4a7d6;
+  border: none;
+  border-radius: 15px;
+  padding: 12px;
+  color: rgb(0, 0, 0);
+  margin: 10px 0;
+  font-size: 16px;
+  box-shadow: 3px 5px 15px #a852d6 ;
+  cursor: pointer;
+}
+
+.contenedor3{
+  width: 400px;
+  text-align: center;
+  background: #c27ba0;
+  padding: 50px;
+  margin: auto;
+  margin-top: 50px;
+  border-radius: 10px;
+  font-family: 'calibri';
+  color: rgb(0, 0, 0);
+  box-shadow: 7px 13px 37px #2d1e2a ;
+}
+
+#respuesta{
+  width: 100%;
+  background: #b4a7d6;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 18px;
+  border: 2px solid #8661dc;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: rgb(0, 0, 0);
+}
+
+.btn3{
+  width: 25%;
+  background: #b4a7d6;
+  border: none;
+  border-radius: 10px;
+  padding: 12px;
+  color: rgb(0, 0, 0);
+  margin: 10px 0;
+  font-size: 15px;
+  box-shadow: 3px 5px 15px #a852d6 ;
+  cursor: pointer;
+}
